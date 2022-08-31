@@ -4,7 +4,7 @@
 ### This randomizer was created for YouTuber TQM_gg as they completed a disc golf challenge with Peachy Disc Golf. Check out the finished disc golf episode on YouTube. For every hole, the application can be used to randomize a disc from the preinputed arry of discs in TQM's bag.
 
 **Link to project:** https://tqmdiscgolf.netlify.app/
-**See it in action:** :yt: https://www.youtube.com/watch?v=Pv7tYN6EpvA
+**See it in action:** :tv: https://www.youtube.com/watch?v=Pv7tYN6EpvA
 
 ![randomizer button and name of returned disc](https://github.com/lfrendahl/DiscGolfRandomizer/blob/main/randomizerCover.jpg)
 
