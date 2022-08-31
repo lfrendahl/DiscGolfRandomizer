@@ -16,8 +16,7 @@ The main concept revolves around creating a function that uses the math randomiz
 
 As the website was going to be accessed on a phone, using media queries was very important to allow it to shine when viewed both vertically and horizontally on a mobile device. 
 
-## Optimizations
-*(optional)*
+## Optimization Plan
 
 This project was requested with a quick turn around, which is why the disc array was hardcoded in. To optimize this application, I would add a way for players to enter the discs that they would like to be able to randomize through. An alternative that saves time on the part of the user is to allow them to enter the number of discs they have and generate a disc to pull from left to right. 
 
